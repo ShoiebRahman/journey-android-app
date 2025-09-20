@@ -18,21 +18,24 @@ Journey is an Android application that helps users discover new travel destinati
 
 
 ## 📱 Demo
+[![Watch the demo](https://img.youtube.com/vi/XXht1LY4FzY/0.jpg)](https://www.youtube.com/watch?v=XXht1LY4FzY)
 
 ## 🛠️ Tech Stack
 
-Language: Java/Kotlin
+* Language: Java
 
-ML Integration: Simple Recommendation Algorithm (content-based filtering)
+* ML Integration: Simple Recommendation Algorithm (content-based filtering)
 
-UI: Android XML Layouts & Material Components
+* UI: Android XML Layouts & Material Components
 
-Libraries:
+* Libraries
+  - Picasso
+    + for image loading
+     
+* TensoFlow Lite
+  - for on-device ML models
+    
 
-Picasso
- – for image loading
 
-TensorFlow Lite 
- – for on-device ML models
-
-Google Maps API – for location details and interactive map
+* Google Maps API – for location details and interactive map
+* Testing using JUnit & Espresso
