@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">Journey</string>
+    <!--Login Page -->
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="usernameEdit">Username</string>
+    <string name="password">Password</string>
+    <string name="passwordEdit">Password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="loginButton">Login</string>
+    <string name="newUser">New User ?</string>
+    <string name="loginSuccessful">Login Successful</string>
+    <string name="invalidLogin">Invalid username or password</string>
+    <!--SignUp Page -->
+    <string name="signUpButton">Sign Up</string>
+    <string name="signUp">Sign Up</string>
+    <string name="fullName">Full name</string>
+    <string name="fullNameEdit">Full name</string>
+    <string name="emailID">Email-ID</string>
+    <string name="emailIDEdit">Email ID</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="confirmPasswordEdit">Confirm Password</string>
+    <string name="alreadyUser">Already an User ?</string>
+    <string name="signUpSucess">Sign up Successful</string>
+    <string name="signUpFail">Sign up Failed</string>
+    <string name="pleaseCheck">Please check your inputs</string>
+    <!--Home Page -->
+    <string name="getStarted">Get Started</string>
+    <string name="helloText">Hi! </string>
+    <string name="where_to_go">Where are you going?</string>
+    <string name="searchBar">Search Country or City</string>
+    <string name="all">All</string>
+    <string name="personalRecommendations">Personal Recommendations</string>
+    <string name="Featured">Featured</string>
+    <!-- Destination Selection -->
+    <string name="destinationQues">What type of destinations do you prefer?</string>
+    <string name="beaches">Beaches</string>
+    <string name="mountains">Mountains</string>
+    <string name="cities">Cities</string>
+    <string name="countryside">Countryside</string>
+    <string name="historicalSites">Historical sites</string>
+    <string name="continueD">Continue</string>
+    <!-- Activity Selection -->
+    <string name="activityQues">What type of activities do you prefer?</string>
+    <string name="adventureSports">Adventure Sports</string>
+    <string name="culturalExperiences">Cultural Experiences</string>
+    <string name="relaxation">Relaxation and Wellness</string>
+    <string name="food">Food and Dining</string>
+    <string name="shopping">Shopping</string>
+    <string name="nature">Nature and Wildlife</string>
+    <!-- Travel With -->
+    <string name="travelQues">Who are you travelling with?</string>
+    <string name="single">Single</string>
+    <string name="couple">Couple</string>
+    <string name="family">Family</string>
+    <string name="friends">Friends</string>
+    <string name="group">Group</string>
+    <!-- Climate Selection-->
+    <string name="climateQues">What climate do you prefer?</string>
+    <string name="tropical">Tropical</string>
+    <string name="temperate">Temperate</string>
+    <string name="cold">Cold</string>
+    <string name="hot">Hot</string>
+    <!-- Recommendation Tile -->
+    <string name="descriptionRecommendation">Destination Title</string>
+    <string name="locationRecommendation">Location</string>
+    <string name="addRecommendation">Add</string>
+    <string name="descriptionE">Description of the destination goes here.</string>
+    <string name="delete_button">delete button</string>
+    <!-- Wishlist -->
+    <string name="wishlistTitle">Wishlist</string>
+    <string name="itemRemoved">Item removed from Wishlist</string>
+    <string name="addedWishlist">Added to the Wishlist</string>
+    <string name="userLog">User not logged in</string>
+    <!-- Map Location -->
+    <string name="mapLocationBack">Back to Location Discovery</string>
+    <string name="googleMapsButton">Show on Google Maps</string>
+    <string name="preview">Preview</string>
+
+    <!-- Location Tile -->
+    <string name="heart_icon">Add to Wishlist</string>
+    <string name="errorLoading">Error loading data</string>
+    <string name="noData">No data available</string>
+    <!-- Result Activity -->
+    <string name="personalizedRecommendation">Here are your personalized recommendations: </string>
+    <string name="errorModel">Error loading model or data</string>
+    <string name="errorInference">Error during inference</string>
+    <!--Settings Page -->
+    <string name="settings">Settings</string>
+    <string name="go_back_icon">Go back icon</string>
+    <string name="accountPrivacy">Account Privacy</string>
+    <string name="accountPrivacyIcon">Account Privacy Icon</string>
+    <string name="notification">Notification</string>
+    <string name="notificationIcon">Notification Icon</string>
+    <string name="language">Language</string>
+    <string name="languageIcon">Language Icon</string>
+    <string name="theme">Theme</string>
+    <string name="themeIcon">Theme Icon</string>
+    <string name="deleteAccount">Delete Account</string>
+    <string name="deleteAccountIcon">Delete Account Icon</string>
+    <string name="changeLanguageDialog">Change Language</string>
+    <string name="changeLanguageMessage">To change the language, please go to the system settings.</string>
+    <string name="gotoSettings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="chooseTheme">Choose Theme</string>
+    <string name="deleteMessage">Are you sure you want to delete your account?</string>
+    <!--Profile Page -->
+    <string name="profile">Profile</string>
+    <string name="profile_img">Profile image icon</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="settingsTextView">Settings</string>
+    <string name="settingsImageView">Settings icon</string>
+    <string name="myTrips">My Trips</string>
+    <string name="myTripsIcon">My Trips icon</string>
+    <string name="itinerary">Itinerary</string>
+    <string name="itineraryIcon">Itinerary icon</string>
+    <string name="changePassword">Change Password</string>
+    <string name="changePasswordIcon">Change Password icon</string>
+    <string name="help">Help and Support</string>
+    <string name="helpIcon">Help and Support icon</string>
+    <string name="logout">Logout</string>
+    <string name="logoutIcon">Logout icon</string>
+    <!--Edit Profile Page -->
+    <string name="editProfileHeading">Edit profile</string>
+    <string name="fullNameEditText">Fullname</string>
+    <string name="genderEditText">Gender</string>
+    <string name="dobEditText">Date of Birth </string>
+    <string name="phoneNumberEditText">Phone Number</string>
+    <string name="emailEditText">Email</string>
+    <string name="saveEditProfile">Save</string>
+    <string-array name="genderArray">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <!--Change Password Page -->
+    <string name="changePasswordTextView">Change Password</string>
+    <string name="createNewPassword">Create new password</string>
+    <string name="contentChange">Your new password must be different from previous password</string>
+    <string name="enterPasswordTextView">Enter the password:</string>
+    <string name="enterPasswordEditText">Enter new password</string>
+    <string name="confirmPasswordTextView">Confirm password:</string>
+    <string name="confirmPasswordEditText">Re-enter the password</string>
+    <string name="resetPassword">Reset Password</string>
+    <string name="fillFields">Please fill in all fields</string>
+    <string name="passwordNotMatch">Passwords do not match</string>
+    <string name="passwordChanged">Password changed successfully</string>
+    <string name="failedPasswordChange">Failed to change password</string>
+    <!--Help & Support Page -->
+    <string name="helpTextView">Help and Support</string>
+    <string name="intro">Welcome to our Help and Support section!
+        We\'re here to ensure you have a smooth and enjoyable experience using our travel planning app.
+        Whether you need assistance with booking, itinerary planning, or managing your account,
+        our comprehensive resources and dedicated support team are ready to help.</string>
+    <string name="feedbackMessage">Your feedback is important to us. Let us know what you think and how we can make our app better for you.</string>
+    <string name="feedbackDialogTitle">Feedback</string>
+    <string name="feedbacKSubmit">Submit</string>
+    <string name="feedbackToast">Feedback Received:</string>
+    <!--FAQ Section -->
+    <string name="faqHeading">Frequently Asked Questions (FAQs)</string>
+    <string name="faqContent">Find quick answers to common questions about using our app, booking trips,
+        managing your profile, and more.</string>
+    <string name="question1">How to use this app?</string>
+    <string name="answer1">You need to log in first. Upon successful login, you will be redirected to the homepage.
+        Once there, you can manually search for your destination,or fill in a questionnaire to receive personalized recommendations.
+        Initially, you will select your destination, followed by choosing activities, indicating the number of people traveling, and specifying the climate.
+        Based on this information, you will be given recommendations.</string>
+    <string name="question2">Can I search the destination manually?</string>
+    <string name="answer2">Yes, you can search for destinations manually by using our search bar at the top of the page. </string>
+    <string name="question3">How do I create a travel itinerary?</string>
+    <string name="answer3">You can create itinerary by clicking on the add button entering the place and date, then clicking on the entry you will
+        be redirected to detailed view which will give you options to add details for different days based on morning,afternoon and evening.</string>
+    <!--Contact Us Section -->
+    <string name="contactUsHeading">Contact Us</string>
+    <string name="contactUsContent">If you need personalized assistance,
+        feel free to reach out to our support team.
+        We\'re available via email, chat, or phone to help you with any inquiries
+        or issues you may encounter.
+    </string>
+    <string name="phoneImageView">phone logo</string>
+    <string name="phoneNumber">+1 435 657 8910</string>
+    <string name="emailImageView">mail logo</string>
+    <string name="email">travel@gmail.com</string>
+
+    <!--Feedback Dialog-->
+    <string name="feedbackHeading">Feedback</string>
+    <string name="feedbackEditText">Enter your feedback here</string>
+    <string name="outro">Thank you for choosing our app for your travel adventures.
+        We\'re here to support you every step of the way!</string>
+
+    <!--Account Privacy page-->
+    <string name="accountHeading">Account Privacy</string>
+    <string name="third_party">Allow sharing your data with third-party services  </string>
+    <string name="receive_emails">Receive promotional emails about special offers </string>
+    <string name="savePreferences">Save</string>
+    <string name="saveMessageAP">Account Privacy settings saved</string>
+    <!--Notifications page-->
+    <string name="notificationsHeading">Notification</string>
+    <string name="pushNotifications">Push Notifications</string>
+    <string name="reminders_toggle">Reminders</string>
+    <string name="trending_places">Trending Places</string>
+    <string name="emailNotifications">Email Notifications</string>
+    <string name="feedback_toggle">Feedback Emails</string>
+    <string name="support_toggle">Support Emails</string>
+    <string name="saveNotificationsPref">Save</string>
+    <!--Itinerary page 1-->
+    <string name="itineraryTitle">Itinerary</string>
+    <string name="add_button_text">Add</string>
+    <string name="addItineraryTitle">Title</string>
+    <string name="addItineraryDate">Date</string>
+    <string name="addItinerarySave">Save</string>
+    <string name="scrollViewTitle">Default Title</string>
+    <string name="scrollViewDate">Default Date</string>
+    <string name="scrollViewDescription">Scroll View</string>
+    <string name="scrollViewAdd">Add timeline</string>
+    <string name="itineraryTimeSlot">Time Slot</string>
+    <string name="calendar_icon">calender icon</string>
+    <string name="more_options">More options</string>
+    <string name="timeline_editText">Period (e.g., Morning, Afternoon)</string>
+    <string name="notesTimeline">Notes</string>
+    <string name="SaveTimeline">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="addItineraryEmptyTitle">Please fill all fields</string>
+    <string name="addItinerarySuccessfully">Itinerary added successfully</string>
+    <string name="addItineraryFailed">Failed to add itinerary</string>
+    <string name="addItineraryUser">User ID not found</string>
+    <string name="invalidUser">Invalid user ID</string>
+    <string name="deleteItineraryItem">Item deleted</string>
+    <!-- ScrollView-->
+    <string name="scrollTitle">No Title</string>
+    <string name="scrollDate">No Date</string>
+    <string name="errorScroll">Error</string>
+    <string name="retrieveScroll">Failed to retrieve itinerary details</string>
+    <string name="invalidItineraryId">Invalid itinerary ID</string>
+    <string name="notesFill">Please fill all fields</string>
+    <string name="failedAddTimeline">Failed to add timeline</string>
+    <string name="errorLoadingTimeline">Error loading timeline data</string>
+    <!-- Descriptions -->
+    <string name="paris_1">Paris, the capital of France, is famed for its art, fashion, and culture. Known as the "City of Light," it features iconic landmarks like the Eiffel Tower, Notre-Dame, and the Louvre. With charming cafes and romantic streets, Paris is a global center for art, fashion, and cuisine.</string>
+    <string name="tokyo_1">Tokyo, Japan\'s capital, blends tradition with cutting-edge modernity. Known for its bustling districts like Shibuya and Shinjuku, it also offers serene temples and gardens. A global leader in technology and culture, Tokyo is famous for its cuisine, fashion, and vibrant nightlife.</string>
+    <string name="rome_1">Rome, Italy\'s capital, is a city rich in history and culture. Known for ancient landmarks like the Colosseum, Roman Forum, and Vatican City, it offers a blend of Renaissance art and bustling street life. Rome\'s timeless charm and delicious cuisine make it a must-visit destination.</string>
+    <string name="barcelona_1">Barcelona, Spain\'s vibrant city, is renowned for its unique architecture by Antoni Gaudí, including Sagrada Família and Park Güell. With beautiful beaches, lively street life, and rich culture, it offers a mix of historic Gothic Quarter and modernist landmarks, making it a top European destination.</string>
+    <string name="sydney_1">Sydney, Australia\'s largest city, is famous for its stunning harbor, iconic Sydney Opera House, and Sydney Harbour Bridge. With beautiful beaches like Bondi, vibrant arts scene, and diverse cuisine, it offers a perfect blend of natural beauty and urban sophistication.</string>
+    <string name="rio_de_janeiro_1">Rio de Janeiro, Brazil\'s vibrant city, is known for its breathtaking landscapes, including Sugarloaf Mountain and Copacabana Beach. Famous for its Carnival, samba rhythms, and the Christ the Redeemer statue, Rio offers a lively mix of culture, music, and stunning natural beauty.</string>
+    <string name="toronto_1">Toronto, Canada\'s largest city, is a multicultural metropolis known for its diverse neighborhoods, vibrant arts scene, and iconic CN Tower. It offers a rich blend of cultural festivals, international cuisine, and beautiful waterfront along Lake Ontario, making it a dynamic urban destination.</string>
+    <string name="beijing_1">Beijing, China\'s capital, is a city steeped in history and modernity. Home to ancient sites like the Great Wall, Forbidden City, and Temple of Heaven, it also boasts modern architecture and bustling markets. Beijing is a cultural and political hub with a rich heritage.</string>
+    <string name="berlin_1">Berlin, Germany\'s capital, is a city of history and innovation. Known for its WWII landmarks, Berlin Wall, and vibrant arts scene, it offers rich cultural experiences. With diverse neighborhoods, world-class museums, and dynamic nightlife, Berlin blends historical depth with contemporary creativity.</string>
+    <string name="delhi_1">Delhi, India\'s capital, is a vibrant blend of old and new. With historic sites like the Red Fort and Qutub Minar, it contrasts modern districts like Connaught Place. Known for its bustling markets, diverse cuisine, and rich cultural heritage, Delhi is a dynamic and lively metropolis.</string>
+    <string name="cancun_1">Cancun, a Mexican city on the Yucatán Peninsula, is renowned for its stunning beaches, turquoise waters, and vibrant nightlife. A gateway to ancient Mayan ruins like Tulum and Chichen Itza, it offers a mix of relaxation, adventure, and rich cultural experiences.</string>
+    <string name="moscow_1">Moscow, Russia\'s capital, is a city of grand history and culture. Known for iconic landmarks like the Kremlin, Red Square, and St. Basil\'s Cathedral, it offers a rich blend of art, architecture, and history. Moscow\'s vibrant theaters, museums, and cuisine make it a captivating destination.</string>
+    <string name="bangkok_1">Bangkok, Thailand\'s capital, is a bustling city known for its vibrant street life, ornate temples, and rich culture. Key attractions include the Grand Palace, Wat Arun, and floating markets. With lively markets, delicious street food, and bustling nightlife, Bangkok offers an exciting urban experience.</string>
+    <string name="london_1">London, the capital of the UK, is a global cultural and financial hub. Known for landmarks like the Tower of London, Buckingham Palace, and the British Museum, it blends rich history with modernity. London offers diverse neighborhoods, world-class theater, and a vibrant arts and food scene.</string>
+    <string name="istanbul_1">Istanbul, straddling Europe and Asia, is a city rich in history and culture. Known for iconic sites like Hagia Sophia, Blue Mosque, and Topkapi Palace, it blends ancient and modern influences. With bustling bazaars, vibrant nightlife, and stunning architecture, Istanbul is a captivating metropolis.</string>
+    <string name="cairo_1">Cairo, Egypt\'s capital, is a city of ancient wonders and vibrant culture. Home to the Giza Pyramids, Sphinx, and the Egyptian Museum, it offers rich historical experiences. With bustling markets, historic mosques, and lively neighborhoods, Cairo is a dynamic city steeped in history.</string>
+    <string name="amsterdam_1">Amsterdam, the Netherlands\' capital, is known for its picturesque canals, historic buildings, and vibrant culture. Famous for its museums like the Rijksmuseum and Anne Frank House, it offers a mix of art, history, and modern charm. Amsterdam\'s lively nightlife and cycling culture make it unique.</string>
+    <string name="athens_1">Athens, Greece\'s capital, is the cradle of Western civilization. Known for ancient landmarks like the Acropolis, Parthenon, and Agora, it offers rich historical insights. Blending classical heritage with a modern vibe, Athens features vibrant neighborhoods, lively cafes, and a rich cultural scene.</string>
+    <string name="cape_town_1">Cape Town, South Africa\'s coastal gem, is known for its stunning landscapes, including Table Mountain and Cape of Good Hope. With beautiful beaches, vibrant waterfront, and rich history, it offers a mix of natural beauty and cultural experiences. Cape Town\'s diverse cuisine and lively arts scene enhance its charm.</string>
+    <string name="buenos_aires_1">Buenos Aires, Argentina\'s capital, is a city of passion and culture. Known for its tango music and dance, it features historic neighborhoods like San Telmo and La Boca. With grand avenues, European-style architecture, and vibrant nightlife, Buenos Aires offers a rich blend of tradition and modernity.</string>
+    <string name="zurich_1">Zurich, Switzerland\'s largest city, is a global financial hub known for its picturesque setting on Lake Zurich. With a charming old town, world-class museums, and vibrant arts scene, it combines natural beauty with urban sophistication. Zurich offers a high quality of life and diverse cultural experiences.</string>
+    <string name="bali_1">Bali, Indonesia\'s tropical paradise, is renowned for its lush landscapes, stunning beaches, and rich culture. With vibrant temples, terraced rice paddies, and a thriving arts scene, it offers a blend of relaxation and adventure. Bali\'s unique traditions and warm hospitality make it a sought-after destination.</string>
+    <string name="kuala_lumpur_1">Kuala Lumpur, Malaysia\'s capital, is a vibrant city known for its iconic Petronas Twin Towers and bustling markets. With a mix of modern skyscrapers, colonial architecture, and diverse cuisine, it offers a dynamic urban experience. Kuala Lumpur\'s rich cultural heritage and lively street life are captivating.</string>
+    <string name="hanoi_1">Hanoi, Vietnam\'s capital, is a city of ancient history and modern charm. Known for its Old Quarter, Hoan Kiem Lake, and historic temples, it offers a rich cultural experience. With bustling markets, delicious street food, and French colonial architecture, Hanoi is a vibrant and captivating city.</string>
+    <string name="seoul_1">Seoul, South Korea\'s capital, is a dynamic metropolis blending ancient traditions with futuristic innovations. Known for its palaces, bustling markets, and vibrant neighborhoods like Gangnam, it offers a rich cultural scene. Seoul\'s technology, fashion, and cuisine make it a leading global city.</string>
+    <string name="singapore_1">Singapore, a city-state in Southeast Asia, is known for its modern skyline, lush gardens, and cultural diversity. Famous for attractions like Marina Bay Sands, Gardens by the Bay, and vibrant hawker centers, it offers a blend of innovation and tradition. Singapore\'s cleanliness and efficiency are world-renowned.</string>
+    <string name="lisbon_1">Lisbon, Portugal\'s hilly capital, is known for its historic neighborhoods, scenic viewpoints, and vibrant culture. With landmarks like Belem Tower and Jeronimos Monastery, it offers a rich historical experience. Lisbon\'s lively nightlife, delicious cuisine, and charming trams add to its unique appeal.</string>
+    <string name="stockholm_1">Stockholm, Sweden\'s capital, is a city of islands and waterways. Known for its historic Gamla Stan, modern architecture, and vibrant arts scene, it offers a blend of tradition and innovation. Stockholm\'s green spaces, museums, and rich cultural heritage make it a beautiful and dynamic city.</string>
+    <string name="oslo_1">Oslo, Norway\'s capital, is a city of natural beauty and cultural richness. Known for its fjords, Viking heritage, and modern architecture, it offers a mix of outdoor adventures and urban sophistication. Oslo\'s museums, vibrant waterfront, and green spaces create a unique and inviting atmosphere.</string>
+    <string name="copenhagen_1">Copenhagen, Denmark\'s capital, is a city of historic charm and modern design. Known for its picturesque Nyhavn harbor, Tivoli Gardens, and innovative architecture, it offers a blend of tradition and contemporary living. Copenhagen\'s vibrant culinary scene, cycling culture, and hygge lifestyle make it a delightful destination.</string>
+    <string name="auckland_1">Auckland, New Zealand\'s largest city, is known for its stunning harbors, volcanic landscapes, and vibrant Maori culture. With beautiful beaches, a bustling waterfront, and diverse neighborhoods, it offers a mix of urban excitement and natural beauty. Auckland\'s outdoor activities and rich cultural scene make it a dynamic city.</string>
+    <string name="lima_1">Lima, Peru\'s capital, is a city of history and culinary excellence. Known for its colonial architecture, coastal views, and world-renowned cuisine, it offers a rich cultural experience. Lima\'s vibrant neighborhoods, museums, and culinary delights, including ceviche, make it a fascinating and flavorful destination.</string>
+    <string name="santiago_1">Santiago, Chile\'s capital, is a city nestled between the Andes and the Pacific Ocean. Known for its modern skyline, historic neighborhoods, and vibrant cultural scene, it offers a blend of urban sophistication and natural beauty. Santiago\'s wine regions, parks, and arts make it a captivating destination.</string>
+    <string name="bogota_1">Bogota, Colombia\'s capital, is a city of contrasts, with historic colonial architecture and modern urban development. Known for its vibrant arts scene, historic La Candelaria district, and lively markets, it offers a rich cultural experience. Bogota\'s museums, cuisine, and mountain views add to its unique charm.</string>
+    <string name="dubai_1">Dubai, a city in the United Arab Emirates, is known for its futuristic skyline, luxury shopping, and desert landscapes. Famous for landmarks like the Burj Khalifa and Palm Jumeirah, it offers a blend of modernity and tradition. Dubai\'s opulent lifestyle, cultural diversity, and innovation make it a global hub.</string>
+    <string name="marrakech_1">Marrakech, a Moroccan city, is renowned for its vibrant souks, historic medina, and stunning palaces. Known for landmarks like the Koutoubia Mosque and Jardin Majorelle, it offers a rich cultural experience. Marrakech\'s bustling markets, traditional riads, and colorful atmosphere make it a captivating destination.</string>
+    <string name="riyadh_1">Riyadh, Saudi Arabia\'s capital, is a city of rapid modernization and rich heritage. Known for its historic sites like Masmak Fortress and modern landmarks like Kingdom Centre, it offers a blend of tradition and progress. Riyadh\'s cultural festivals, cuisine, and evolving skyline highlight its dynamic nature.</string>
+    <string name="vienna_1">Vienna, Austria\'s capital, is a city of grand imperial history and classical music. Known for its elegant palaces like Schönbrunn and Hofburg, it offers a rich cultural experience. Vienna\'s world-class museums, coffee houses, and musical heritage, including connections to Mozart and Beethoven, make it a refined destination.</string>
+    <string name="brussels_1">Brussels, Belgium\'s capital, is a city of historic charm and modern political significance. Known for its stunning Grand Place, Atomium, and rich chocolate and beer culture, it offers a blend of history and contemporary life. Brussels\' art, cuisine, and role as the EU headquarters make it a dynamic city.</string>
+    <string name="prague_1">Prague, the capital of the Czech Republic, is known for its stunning medieval architecture and charming Old Town. Famous for landmarks like Prague Castle, Charles Bridge, and the Astronomical Clock, it offers a rich historical experience. Prague\'s vibrant arts scene and scenic beauty make it a magical destination.</string>
+    <string name="budapest_1">Budapest, Hungary\'s capital, is a city of thermal baths, historic architecture, and the beautiful Danube River. Known for landmarks like Buda Castle, Parliament Building, and Fisherman\'s Bastion, it offers a rich cultural experience. Budapest\'s vibrant nightlife, spas, and historic charm make it a captivating city.</string>
+    <string name="krakow_1">Krakow, Poland\'s historic city, is known for its well-preserved medieval core and vibrant culture. Famous for landmarks like Wawel Castle, Main Market Square, and Auschwitz-Birkenau nearby, it offers a rich historical experience. Krakow\'s lively arts scene, traditional cuisine, and historical depth make it a fascinating destination.</string>
+    <string name="helsinki_1">Helsinki, Finland\'s capital, is a city of modern design and maritime beauty. Known for its innovative architecture, vibrant cultural scene, and beautiful archipelago, it offers a blend of urban sophistication and natural charm. Helsinki\'s saunas, museums, and lively festivals highlight its unique Nordic character.</string>
+    <string name="dublin_1">Dublin, Ireland\'s capital, is a city of literary heritage and vibrant culture. Known for its historic landmarks like Trinity College and Dublin Castle, it offers a rich cultural experience. Dublin\'s lively pubs, traditional music, and friendly atmosphere make it a welcoming and charming destination.</string>
+    <string name="dubrovnik_1">Dubrovnik, a Croatian coastal city, is renowned for its stunning medieval walls and picturesque Old Town. Known as the "Pearl of the Adriatic," it offers breathtaking views, historic architecture, and vibrant cultural life. Dubrovnik\'s beautiful beaches, charming streets, and rich history make it a captivating destination.</string>
+    <string name="tel_aviv_1">Tel Aviv, Israel\'s bustling city, is known for its modern architecture, beautiful beaches, and vibrant nightlife. With a rich cultural scene, including museums and galleries, it offers a blend of contemporary life and historical depth. Tel Aviv\'s diverse cuisine and lively atmosphere make it a dynamic urban center.</string>
+    <string name="havana_1">Havana, Cuba\'s capital, is a city of vibrant colors, historic charm, and lively culture. Known for its colonial architecture, classic cars, and rhythmic music, it offers a rich cultural experience. Havana\'s lively streets, historic squares, and passionate dance and music scenes create a unique and energetic atmosphere.</string>
+    <string name="manila_1">Manila, the capital of the Philippines, is a bustling metropolis known for its historic sites, vibrant culture, and dynamic urban life. With landmarks like Intramuros, Rizal Park, and bustling markets, it offers a blend of history and modernity. Manila\'s diverse cuisine and lively atmosphere make it a captivating city.</string>
+    <string name="nairobi_1">Nairobi, Kenya\'s capital, is a city of contrasts, known for its urban vibrancy and proximity to wildlife. With attractions like Nairobi National Park, bustling markets, and cultural institutions, it offers a unique blend of city life and natural beauty. Nairobi\'s dynamic arts scene and rich history make it a lively destination.</string>
+    <string name="interlaken_1">Interlaken, a Swiss resort town, is renowned for its stunning alpine scenery and outdoor adventures. Nestled between Lake Thun and Lake Brienz, it offers breathtaking views, hiking, skiing, and paragliding opportunities. Interlaken\'s charming atmosphere, beautiful landscapes, and adventure sports make it a top destination for nature lovers.</string>
+
+    <string name="new_york_1">New York, the largest city in the USA, is renowned for its iconic skyline, bustling streets, and cultural landmarks. Known as "The Big Apple," it boasts attractions like Times Square, Central Park, and the Statue of Liberty. It\'s a global hub for finance, art, fashion, and entertainment.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/round_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidProject"
+        tools:targetApi="31">
+        <activity
+            android:name=".faq"
+            android:exported="false" />
+        <activity
+            android:name=".TimelineItem"
+            android:exported="false" />
+        <activity
+            android:name=".ItineraryScrollView"
+            android:exported="false" />
+        <activity
+            android:name=".ItineraryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".contactUs"
+            android:exported="false" />
+        <activity
+            android:name=".AddItineraryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeaturedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TravelWithSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DestinationSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ClimateSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ActivitySelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Wishlist"
+            android:exported="false" />
+        <activity
+            android:name=".MapLocation"
+            android:exported="false" />
+        <activity
+            android:name=".LocationPage"
+            android:exported="false" />
+        <activity
+            android:name=".home_page"
+            android:exported="false" />
+        <activity
+            android:name=".notifications"
+            android:exported="false" />
+        <activity
+            android:name=".accountPrivacy"
+            android:exported="false" />
+        <activity
+            android:name=".Help"
+            android:exported="false" />
+        <activity
+            android:name=".changePassword"
+            android:exported="false" />
+        <activity
+            android:name=".EditProfile"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileSection"
+            android:exported="false" />
+        <activity
+            android:name=".Setting"
+            android:exported="false" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
+
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCKWxNe0eQzQuSnBLYMxOQb3cjp2_fnayk" />
+    </application>
+
+</manifest>

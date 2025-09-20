@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Journey</string>
+    <!--Login Page -->
+    <string name="login">Se connecter</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="usernameEdit">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="passwordEdit">Mot de passe</string>
+    <string name="forgotPassword">Mot de passe oublié?</string>
+    <string name="loginButton">Se connecter</string>
+    <string name="newUser">Nouvel utilisateur ?</string>
+    <string name="loginSuccessful">Connexion réussie</string>
+    <string name="invalidLogin">Nom d\'utilisateur ou mot de passe invalide</string>
+    <!--SignUp Page -->
+    <string name="signUpButton">S\'inscrire</string>
+    <string name="signUp">S\'inscrire</string>
+    <string name="fullName">Nom et prénom</string>
+    <string name="fullNameEdit">Nom et prénom</string>
+    <string name="emailID">ID de courrier électronique</string>
+    <string name="emailIDEdit">ID de courrier électronique</string>
+    <string name="confirmPassword">Confirmez le mot de passe</string>
+    <string name="confirmPasswordEdit">Confirmez le mot de passe</string>
+    <string name="alreadyUser">Déjà utilisateur ?</string>
+    <string name="signUpSucess">Inscription réussie</string>
+    <string name="signUpFail">Échec de l\'inscription</string>
+    <string name="pleaseCheck">Veuillez vérifier vos entrées</string>
+    <!--Home Page -->
+    <string name="getStarted">Commencer</string>
+    <string name="helloText">Bonjour! </string>
+    <string name="where_to_go">Où vas-tu??</string>
+    <string name="searchBar">Rechercher un pays ou une ville</string>
+    <string name="all">Toute</string>
+    <string name="personalRecommendations">Recommandations personnelles</string>
+    <string name="Featured">En vedette</string>
+    <!-- Destination Selection -->
+    <string name="destinationQues">Quel type de destinations préférez-vous ?</string>
+    <string name="beaches">Beaches</string>
+    <string name="mountains">Mountains</string>
+    <string name="cities">Cities</string>
+    <string name="countryside">Countryside</string>
+    <string name="historicalSites">Historical sites</string>
+    <string name="continueD">Continuer</string>
+    <!-- Activity Selection -->
+    <string name="activityQues">Quel type d\'activités préférez-vous ?</string>
+    <string name="adventureSports">Adventure Sports</string>
+    <string name="culturalExperiences">Cultural Experiences</string>
+    <string name="relaxation">Relaxation and Wellness</string>
+    <string name="food">Food and Dining</string>
+    <string name="shopping">Shopping</string>
+    <string name="nature">Nature and Wildlife</string>
+    <!-- Travel With -->
+    <string name="travelQues">Avec qui voyagez-vous ?</string>
+    <string name="single">Single</string>
+    <string name="couple">Couple</string>
+    <string name="family">Family</string>
+    <string name="friends">Friends</string>
+    <string name="group">Group</string>
+    <!-- Climate Selection-->
+    <string name="climateQues">Quel climat préférez-vous ?</string>
+    <string name="tropical">Tropical</string>
+    <string name="temperate">Temperate</string>
+    <string name="cold">Cold</string>
+    <string name="hot">Hot</string>
+    <!-- Recommendation Tile -->
+    <string name="descriptionRecommendation">Titre de la destination</string>
+    <string name="locationRecommendation">Emplacement</string>
+    <string name="addRecommendation">Ajouter</string>
+    <string name="descriptionE">La description de la destination va ici.</string>
+    <string name="delete_button">Bouton supprimer</string>
+    <!-- Wishlist -->
+    <string name="wishlistTitle">Liste de souhaits</string>
+    <string name="itemRemoved">Article supprimé de la liste de souhaits</string>
+    <string name="addedWishlist">Ajouté à la liste de souhaits</string>
+    <string name="userLog">Utilisateur non connecté</string>
+    <!-- Map Location -->
+    <string name="mapLocationBack">Retour à la découverte de lieux</string>
+    <string name="googleMapsButton">Afficher sur Google Maps</string>
+    <string name="preview">Aperçu</string>
+    <!-- Location Tile -->
+    <string name="heart_icon">Ajouter à la liste de souhaits</string>
+    <string name="errorLoading">Erreur de chargement des données</string>
+    <string name="noData">Pas de données disponibles</string>
+    <!-- Result Activity -->
+    <string name="personalizedRecommendation">Voici vos recommandations personnalisées: </string>
+    <string name="errorModel">Erreur de chargement du modèle ou des données</string>
+    <string name="errorInference">Erreur lors de l\'inférence</string>
+    <!--Settings Page -->
+    <string name="settings">Paramètres</string>
+    <string name="go_back_icon">Icône de retour</string>
+    <string name="accountPrivacy">Confidentialité du compte</string>
+    <string name="accountPrivacyIcon">Icône de confidentialité du compte</string>
+    <string name="notification">Notification</string>
+    <string name="notificationIcon">Icône de notification</string>
+    <string name="language">Langue</string>
+    <string name="languageIcon">Icône de langue</string>
+    <string name="theme">Thème</string>
+    <string name="themeIcon">Icône de thème</string>
+    <string name="deleteAccount">Supprimer le compte</string>
+    <string name="deleteAccountIcon">Icône Supprimer le compte</string>
+    <string name="changeLanguageDialog">Changer de langue</string>
+    <string name="changeLanguageMessage">Pour changer la langue, veuillez accéder aux paramètres système.</string>
+    <string name="gotoSettings">Aller aux paramètres</string>
+    <string name="cancel">Annuler</string>
+    <string name="chooseTheme">Choisir un thème</string>
+    <string name="deleteMessage">Êtes-vous sûr de vouloir supprimer votre compte?</string>
+    <!--Profile Page -->
+    <string name="profile">Profil</string>
+    <string name="profile_img">Icône d\'image de profil</string>
+    <string name="editProfile">Editer le profil</string>
+    <string name="settingsTextView">Paramètres</string>
+    <string name="settingsImageView">Icône Paramètres</string>
+    <string name="myTrips">Mes excursions</string>
+    <string name="myTripsIcon">Icône Mes voyages</string>
+    <string name="itinerary">Itinéraire</string>
+    <string name="itineraryIcon">Icône d\'itinéraire</string>
+    <string name="changePassword">Changer le mot de passe</string>
+    <string name="changePasswordIcon">Icône Modifier le mot de passe</string>
+    <string name="help">Aide et soutien</string>
+    <string name="helpIcon">Icône Aide et support</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="logoutIcon">Icône de déconnexion</string>
+    <!--Edit Profile Page -->
+    <string name="editProfileHeading">Editer le profil</string>
+    <string name="fullNameEditText">Nom et prénom</string>
+    <string name="genderEditText">Genre</string>
+    <string name="dobEditText">Date de naissance </string>
+    <string name="phoneNumberEditText">Numéro de téléphone</string>
+    <string name="emailEditText">E-mail</string>
+    <string name="saveEditProfile">Sauvegarder</string>
+    <string-array name="genderArray">
+        <item>Sélectionnez le sexe</item>
+        <item>Mâle</item>
+        <item>Femelle</item>
+        <item>Autre</item>
+    </string-array>
+    <!--Change Password Page -->
+    <string name="changePasswordTextView">Changer le mot de passe</string>
+    <string name="createNewPassword">Créer un nouveau mot de passe</string>
+    <string name="contentChange">Votre nouveau mot de passe doit être différent du mot de passe précédent</string>
+    <string name="enterPasswordTextView">Entrer le mot de passe:</string>
+    <string name="enterPasswordEditText">Entrez un nouveau mot de passe:</string>
+    <string name="confirmPasswordTextView">Confirmez le mot de passe:</string>
+    <string name="confirmPasswordEditText">Ressaisissez le mot de passe:</string>
+    <string name="resetPassword">Réinitialiser le mot de passe</string>
+    <string name="fillFields">Merci de remplir tous les champs</string>
+    <string name="passwordNotMatch">Les mots de passe ne correspondent pas</string>
+    <string name="passwordChanged">Le mot de passe a été changé avec succès</string>
+    <string name="failedPasswordChange">Échec de la modification du mot de passe</string>
+    <!--Help & Support Page -->
+    <string name="helpTextView">Aide et soutien</string>
+    <string name="intro">Bienvenue dans notre section Aide et support !
+        Nous sommes là pour vous assurer une expérience fluide et agréable en utilisant notre application de planification de voyage.
+        Que vous ayez besoin d\'aide pour la réservation, la planification d\'un itinéraire ou la gestion de votre compte,
+        nos ressources complètes et notre équipe d’assistance dédiée sont prêtes à vous aider.</string>
+    <string name="feedbackMessage">Votre avis est important pour nous. Faites-nous savoir ce que vous pensez et comment nous pouvons améliorer notre application pour vous.</string>
+    <string name="feedbackDialogTitle">Retour</string>
+    <string name="feedbacKSubmit">Soumettre</string>
+    <string name="feedbackToast">Retour d\'information reçu:</string>
+    <!--FAQ Section -->
+    <string name="faqHeading">Foire aux questions (FAQ):</string>
+    <string name="faqContent">Trouvez des réponses rapides aux questions courantes sur l\'utilisation de notre application, la réservation de voyages,
+        gérer votre profil, et plus encore.</string>
+    <string name="question1">Comment utiliser cette application ?</string>
+    <string name="answer1">Tu dois d\'abord te connecter. Une fois la connexion réussie, vous serez redirigé vers la page d\'accueil.
+        Une fois sur place, vous pouvez rechercher manuellement votre destination ou remplir un questionnaire pour recevoir des recommandations personnalisées.
+        Dans un premier temps, vous sélectionnerez votre destination, puis choisirez les activités, indiquerez le nombre de personnes voyageant et préciserez le climat.
+        Sur la base de ces informations, vous recevrez des recommandations</string>
+    <string name="question2">Puis-je rechercher la destination manuellement ?</string>
+    <string name="answer2">Oui, vous pouvez rechercher des destinations manuellement en utilisant notre barre de recherche en haut de la page. </string>
+    <string name="question3">Comment créer un itinéraire de voyage ?</string>
+    <string name="answer3">Vous pouvez créer un itinéraire en cliquant sur le bouton Ajouter en saisissant le lieu et la date, puis en cliquant sur l\'entrée que vous allez
+        être redirigé vers une vue détaillée qui vous donnera la possibilité d\'ajouter des détails pour différents jours en fonction du matin, de l\'après-midi et du soir.</string>
+    <!--Contact Us Section -->
+    <string name="contactUsHeading">Contactez-nous</string>
+    <string name="contactUsContent">Si vous avez besoin d\'une assistance personnalisée,
+        n\'hésitez pas à contacter notre équipe d\'assistance.Nous sommes disponibles par e-mail, chat ou téléphone pour vous aider
+        avec toute demande de renseignements ou les problèmes que vous pourriez rencontrer.
+    </string>
+    <string name="phoneImageView">logo de téléphone</string>
+    <string name="phoneNumber">+1 435 657 8910</string>
+    <string name="emailImageView">logo de courrier</string>
+    <string name="email">travel@gmail.com</string>
+
+    <!--Feedback Dialog-->
+    <string name="feedbackHeading">Retour</string>
+    <string name="feedbackEditText">Entrez vos commentaires ici</string>
+
+    <string name="outro">Merci d\'avoir choisi notre application pour vos aventures de voyage.
+        Nous sommes là pour vous accompagner à chaque étape!</string>
+
+    <!--Account Privacy page-->
+    <string name="accountHeading">Confidentialité du compte</string>
+    <string name="third_party">Allow sharing your data with third-party services  </string>
+    <string name="receive_emails">Autoriser le partage de vos données avec des services tiers</string>
+    <string name="savePreferences">Sauvegarder</string>
+    <string name="saveMessageAP">Paramètres de confidentialité du compte enregistrés</string>
+    <!--Notifications page-->
+    <string name="notificationsHeading">Notification</string>
+    <string name="pushNotifications">Notifications push</string>
+    <string name="reminders_toggle">Rappels</string>
+    <string name="trending_places">Trending Places</string>
+    <string name="emailNotifications">Lieux tendances</string>
+    <string name="feedback_toggle">E-mails de commentaires</string>
+    <string name="support_toggle">E-mails d\'assistance</string>
+    <string name="saveNotificationsPref">Sauvegarder</string>
+    <!--Itinerary page 1-->
+    <string name="itineraryTitle">Itinéraire</string>
+    <string name="add_button_text">Ajouter</string>
+    <string name="addItineraryTitle">Titre</string>
+    <string name="addItineraryDate">Date</string>
+    <string name="addItinerarySave">Sauvegarder</string>
+    <string name="scrollViewTitle">Titre par défaut</string>
+    <string name="scrollViewDate">Date par défaut</string>
+    <string name="scrollViewDescription">Vue défilante</string>
+    <string name="scrollViewAdd">Ajouter une chronologie</string>
+    <string name="itineraryTimeSlot">Créneau horaire</string>
+    <string name="calendar_icon">icône de calendrier</string>
+    <string name="more_options">Plus d\'options</string>
+    <string name="timeline_editText">Période (par exemple, matin, après-midi)</string>
+    <string name="notesTimeline">Remarques</string>
+    <string name="SaveTimeline">Sauvegarder</string>
+    <string name="menu_delete">Supprimer</string>
+    <string name="addItineraryEmptyTitle">Merci de compléter tous les champs</string>
+    <string name="addItinerarySuccessfully">Itinéraire ajouté avec succès</string>
+    <string name="addItineraryFailed">Échec de l\'ajout de l\'itinéraire</string>
+    <string name="addItineraryUser">ID de l\'utilisateur non trouvé</string>
+    <string name="invalidUser">Identifiant invalide</string>
+    <string name="deleteItineraryItem">Élément supprimé</string>
+    <!-- ScrollView-->
+    <string name="scrollTitle">Pas de titre</string>
+    <string name="scrollDate">Pas de date</string>
+    <string name="errorScroll">Erreur</string>
+    <string name="retrieveScroll">Échec de la récupération des détails de l\'itinéraire</string>
+    <string name="invalidItineraryId">ID d\'itinéraire invalide</string>
+    <string name="notesFill">Merci de compléter tous les champs</string>
+    <string name="failedAddTimeline">Échec de l\'ajout de la chronologie</string>
+    <string name="errorLoadingTimeline">Erreur lors du chargement des données de la chronologie</string>
+
+    <!-- Descriptions -->
+    <string name="new_york_1">New York, la ville qui ne dort jamais, est connue pour son skyline emblématique, Central Park, Broadway, et la Statue de la Liberté. Un centre de culture, de finance et de divertissement, c\'est une métropole dynamique où des millions de rêves prennent vie chaque jour.</string>
+    <string name="paris_1">Paris, la Ville Lumière, est renommée pour sa culture, son histoire et sa romance. Avec des monuments emblématiques comme la Tour Eiffel, le Louvre et la cathédrale Notre-Dame, elle offre une expérience riche en art, en gastronomie et en beauté architecturale. Les rues charmantes et les cafés parisiens captivent les visiteurs.</string>
+    <string name="tokyo_1">Tokyo, la capitale du Japon, est une métropole dynamique mêlant tradition et modernité. Connue pour ses gratte-ciel futuristes, ses temples anciens et sa culture pop vibrante, elle offre une expérience urbaine unique. Les quartiers animés, la cuisine raffinée et l\'innovation technologique de Tokyo en font une destination captivante.</string>
+    <string name="rome_1">Rome, la capitale de l\'Italie, est une ville de richesses historiques et culturelles. Connue pour ses monuments antiques comme le Colisée et le Forum Romain, elle offre un voyage dans le temps. Les églises majestueuses, la cuisine italienne délicieuse et les rues pittoresques de Rome en font une destination fascinante.</string>
+    <string name="barcelona_1">Barcelone, une ville côtière espagnole, est célèbre pour son architecture unique de Gaudí, ses plages et sa vie nocturne animée. La Sagrada Família, le Parc Güell et la Rambla captivent les visiteurs. Avec sa culture catalane riche et sa scène artistique vibrante, Barcelone offre une expérience inoubliable.</string>
+    <string name="sydney_1">Sydney, la plus grande ville d\'Australie, est connue pour son Opéra emblématique, son pont Harbour Bridge et ses plages magnifiques. Avec un climat agréable, une scène culturelle dynamique et une diversité culinaire, elle offre une expérience urbaine captivante. Les activités de plein air et les sites historiques de Sydney attirent les visiteurs du monde entier.</string>
+    <string name="rio_de_janeiro_1">Rio de Janeiro, une ville brésilienne célèbre, est connue pour ses plages emblématiques comme Copacabana et Ipanema, ainsi que pour son carnaval vibrant. Le Christ Rédempteur surplombe la ville, offrant des vues spectaculaires. La musique samba, les festivals et l\'atmosphère animée de Rio captivent les visiteurs.</string>
+    <string name="toronto_1">Toronto, la plus grande ville du Canada, est un centre multiculturel dynamique. Connue pour sa skyline dominée par la Tour CN, ses quartiers diversifiés et sa scène artistique florissante, elle offre une riche expérience urbaine. Les festivals, la cuisine variée et l\'innovation de Toronto en font une destination fascinante.</string>
+    <string name="beijing_1">Pékin, la capitale de la Chine, est une ville de contrastes entre tradition et modernité. Connue pour ses sites historiques comme la Cité Interdite et la Grande Muraille, elle offre une expérience culturelle riche. Les temples anciens, les hutongs et les gratte-ciel modernes de Pékin en font une métropole fascinante.</string>
+    <string name="berlin_1">Berlin, la capitale de l\'Allemagne, est une ville d\'histoire et de culture. Connue pour son mur historique, la porte de Brandebourg et son ambiance alternative, elle offre une expérience urbaine dynamique. Les musées de classe mondiale, les quartiers animés et la scène artistique de Berlin en font une destination captivante.</string>
+    <string name="delhi_1">Delhi, la capitale de l\'Inde, est une ville de contrastes vibrants. Connue pour ses monuments historiques comme le Fort Rouge et Qutub Minar, elle offre une expérience culturelle riche. Les marchés animés, la cuisine délicieuse et les temples majestueux de Delhi captivent les visiteurs. Une fusion de tradition et de modernité.</string>
+    <string name="cancun_1">Cancún, une destination mexicaine populaire, est connue pour ses plages paradisiaques, ses eaux turquoise et sa vie nocturne animée. Avec ses complexes hôteliers de luxe, ses activités aquatiques et ses sites mayas à proximité, elle offre une escapade tropicale idéale. Les fêtes, les plages et la beauté naturelle de Cancún attirent les visiteurs du monde entier.</string>
+    <string name="moscow_1">Moscou, la capitale de la Russie, est une ville de grandeur impériale et de richesse culturelle. Connue pour le Kremlin, la Place Rouge et la cathédrale Saint-Basile, elle offre une expérience historique et architecturale unique. Les théâtres, les musées et la scène artistique vibrante de Moscou en font une destination captivante.</string>
+    <string name="bangkok_1">Bangkok, la capitale de la Thaïlande, est une métropole animée connue pour ses temples resplendissants, ses marchés animés et sa vie nocturne vibrante. Avec des sites comme le Grand Palais et Wat Arun, elle offre une riche expérience culturelle. La cuisine de rue, les centres commerciaux et l\'atmosphère dynamique de Bangkok captivent les visiteurs.</string>
+    <string name="london_1">Londres, la capitale du Royaume-Uni, est une ville de richesse historique et de culture dynamique. Connue pour des monuments comme Big Ben, le palais de Buckingham et la Tour de Londres, elle offre une expérience urbaine sophistiquée. Les musées, les théâtres et la diversité de Londres en font une destination de premier plan.</string>
+    <string name="istanbul_1">Istanbul, une ville turque fascinante, est connue pour son histoire riche et sa position unique entre l\'Europe et l\'Asie. Avec des sites emblématiques comme Sainte-Sophie, la Mosquée Bleue et le Grand Bazar, elle offre une expérience culturelle captivante. Les mosquées majestueuses, les palais ottomans et les marchés animés d\'Istanbul enchantent les visiteurs.</string>
+    <string name="cairo_1">Le Caire, la capitale de l\'Égypte, est une ville de richesses historiques et culturelles. Connue pour les pyramides de Gizeh, le Sphinx et le musée égyptien, elle offre une expérience fascinante. Les bazars animés, les mosquées et l\'histoire ancienne du Caire captivent les visiteurs. Une fusion de passé et de présent.</string>
+    <string name="amsterdam_1">Amsterdam, la capitale des Pays-Bas, est connue pour ses canaux pittoresques, ses maisons à pignons et sa culture du vélo. Avec des musées de renommée mondiale comme le Rijksmuseum et la Maison d\'Anne Frank, elle offre une riche expérience culturelle. Les cafés, les marchés aux fleurs et l\'atmosphère détendue d\'Amsterdam enchantent les visiteurs.</string>
+    <string name="athens_1">Athènes, la capitale de la Grèce, est une ville de légendes anciennes et de beauté moderne. Connue pour l\'Acropole, le Parthénon et ses rues animées, elle offre une expérience historique et culturelle riche. Les ruines antiques, les musées et la cuisine grecque savoureuse d\'Athènes captivent les visiteurs.</string>
+    <string name="cape_town_1">Le Cap, une ville sud-africaine emblématique, est connue pour ses paysages spectaculaires comme la Montagne de la Table et le Cap de Bonne-Espérance. Avec des plages magnifiques, des vignobles et une riche histoire, elle offre une expérience diversifiée. La beauté naturelle, la culture et l\'aventure du Cap enchantent les visiteurs.</string>
+    <string name="buenos_aires_1">Buenos Aires, la capitale de l\'Argentine, est une ville de passion et de culture. Connue pour le tango, ses cafés animés et son architecture européenne, elle offre une expérience urbaine vibrante. Les quartiers colorés comme La Boca, la cuisine délicieuse et l\'ambiance animée de Buenos Aires captivent les visiteurs.</string>
+    <string name="zurich_1">Zurich, la plus grande ville de Suisse, est connue pour sa propreté, son économie robuste et sa qualité de vie élevée. Avec son magnifique lac, ses musées et ses rues pavées, elle offre une expérience urbaine sophistiquée. Les banques, les boutiques de luxe et la beauté naturelle de Zurich en font une destination prisée.</string>
+    <string name="bali_1">Bali, une île indonésienne, est un paradis tropical connu pour ses plages idylliques, ses rizières en terrasses et ses temples anciens. Avec une riche culture balinaise, des activités de surf et de plongée, elle offre une escapade exotique. Les paysages luxuriants, les festivals colorés et la spiritualité de Bali enchantent les visiteurs.</string>
+    <string name="kuala_lumpur_1">Kuala Lumpur, la capitale de la Malaisie, est une ville de contrastes dynamiques. Connue pour les tours Petronas, ses marchés animés et sa scène culinaire diversifiée, elle offre une riche expérience urbaine. Les gratte-ciel modernes, les temples anciens et l\'effervescence de Kuala Lumpur captivent les visiteurs. Une fusion de cultures et de modernité.</string>
+    <string name="hanoi_1">Hanoï, la capitale du Vietnam, est une ville de charme historique et de culture vibrante. Connue pour son vieux quartier, ses temples anciens et ses lacs sereins, elle offre une expérience culturelle riche. Les marchés animés, la cuisine de rue et l\'architecture coloniale de Hanoï enchantent les visiteurs.</string>
+    <string name="seoul_1">Séoul, la capitale de la Corée du Sud, est une métropole dynamique connue pour sa technologie avancée, sa culture pop vibrante et ses palais historiques. Avec des sites comme le palais Gyeongbokgung et la tour Namsan, elle offre une expérience urbaine unique. Les quartiers animés, la cuisine coréenne et l\'innovation de Séoul en font une ville captivante.</string>
+    <string name="singapore_1">Singapour, une cité-état asiatique moderne, est connue pour sa propreté, son skyline futuriste et ses jardins luxuriants. Avec des sites comme Marina Bay Sands et Gardens by the Bay, elle offre une expérience urbaine sophistiquée. Les centres commerciaux, la diversité culinaire et l\'efficacité de Singapour en font une destination de premier plan.</string>
+    <string name="lisbon_1">Lisbonne, la capitale du Portugal, est une ville côtière charmante connue pour ses collines, ses tramways jaunes et ses rues pavées. Avec des sites comme la tour de Belém et le monastère des Hiéronymites, elle offre une riche expérience culturelle. Les quartiers colorés, la musique fado et la cuisine de Lisbonne captivent les visiteurs.</string>
+    <string name="stockholm_1">Stockholm, la capitale de la Suède, est une ville de beauté maritime et de design scandinave. Connue pour son archipel pittoresque, ses musées de classe mondiale et ses palais royaux, elle offre une expérience urbaine raffinée. Les quartiers historiques, les cafés et l\'innovation de Stockholm en font une destination captivante.</string>
+    <string name="oslo_1">Oslo, la capitale de la Norvège, est une ville de paysages naturels époustouflants et de culture riche. Connue pour ses fjords, ses musées et son architecture moderne, elle offre une expérience urbaine unique. Les activités de plein air, les festivals et l\'atmosphère accueillante d\'Oslo en font une destination prisée des amoureux de la nature et des curieux culturels.</string>
+    <string name="copenhagen_1">Copenhague, la capitale du Danemark, est une ville de design et de durabilité. Connue pour ses canaux pittoresques, ses palais royaux et ses quartiers comme Nyhavn, elle offre un mélange de charme historique et de modernité. La culture cycliste, les cafés et la scène gastronomique de Copenhague en font une destination vibrante.</string>
+    <string name="auckland_1">Auckland, la plus grande ville de Nouvelle-Zélande, est connue pour ses paysages magnifiques, ses ports animés et sa culture maorie. Avec des vues panoramiques depuis la Sky Tower et des plages de sable noir, elle offre un mélange de nature et de vie urbaine. La diversité culturelle et les aventures en plein air d\'Auckland sont captivantes.</string>
+    <string name="lima_1">Lima, la capitale du Pérou, est une ville d\'histoire et d\'excellence culinaire. Connue pour son architecture coloniale, ses vues côtières et sa cuisine de renommée mondiale, elle offre une riche expérience culturelle. Les quartiers vibrants, les musées et les délices culinaires de Lima, y compris le ceviche, en font une destination fascinante et savoureuse.</string>
+    <string name="santiago_1">Santiago, la capitale du Chili, est une ville nichée entre les Andes et l\'océan Pacifique. Connue pour son skyline moderne, ses quartiers historiques et sa scène culturelle vibrante, elle offre un mélange de sophistication urbaine et de beauté naturelle. Les régions viticoles, les parcs et les arts de Santiago en font une destination captivante.</string>
+    <string name="bogota_1">Bogota, la capitale de la Colombie, est une ville de contrastes, avec une architecture coloniale historique et un développement urbain moderne. Connue pour sa scène artistique vibrante, le quartier historique de La Candelaria et ses marchés animés, elle offre une riche expérience culturelle. Les musées, la cuisine et les vues montagneuses de Bogota ajoutent à son charme unique.</string>
+    <string name="dubai_1">Dubaï, une ville des Émirats arabes unis, est connue pour son skyline futuriste, ses boutiques de luxe et ses paysages désertiques. Célèbre pour des monuments comme le Burj Khalifa et Palm Jumeirah, elle offre un mélange de modernité et de tradition. Le mode de vie opulent, la diversité culturelle et l\'innovation de Dubaï en font un hub mondial.</string>
+    <string name="marrakech_1">Marrakech, une ville marocaine, est renommée pour ses souks vibrants, sa médina historique et ses palais magnifiques. Connue pour des monuments comme la mosquée Koutoubia et le Jardin Majorelle, elle offre une riche expérience culturelle. Les marchés animés, les riads traditionnels et l\'atmosphère colorée de Marrakech en font une destination captivante.</string>
+    <string name="riyadh_1">Riyad, la capitale de l\'Arabie saoudite, est une ville de modernisation rapide et de patrimoine riche. Connue pour ses sites historiques comme la forteresse Masmak et des monuments modernes comme le Kingdom Centre, elle offre un mélange de tradition et de progrès. Les festivals culturels, la cuisine et le skyline en évolution de Riyad soulignent sa nature dynamique.</string>
+    <string name="vienna_1">Vienne, la capitale de l\'Autriche, est une ville d\'histoire impériale grandiose et de musique classique. Connue pour ses palais élégants comme Schönbrunn et Hofburg, elle offre une riche expérience culturelle. Les musées de classe mondiale, les cafés et le patrimoine musical de Vienne, y compris les liens avec Mozart et Beethoven, en font une destination raffinée.</string>
+    <string name="brussels_1">Bruxelles, la capitale de la Belgique, est une ville de charme historique et de signification politique moderne. Connue pour sa magnifique Grand-Place, l\'Atomium et sa riche culture du chocolat et de la bière, elle offre un mélange d\'histoire et de vie contemporaine. L\'art, la cuisine et le rôle de Bruxelles en tant que siège de l\'UE en font une ville dynamique.</string>
+    <string name="prague_1">Prague, la capitale de la République tchèque, est connue pour son architecture médiévale époustouflante et sa charmante vieille ville. Célèbre pour des monuments comme le château de Prague, le pont Charles et l\'horloge astronomique, elle offre une riche expérience historique. La scène artistique vibrante et la beauté pittoresque de Prague en font une destination magique.</string>
+    <string name="budapest_1">Budapest, la capitale de la Hongrie, est une ville de bains thermaux, d\'architecture historique et de la belle rivière Danube. Connue pour des monuments comme le château de Buda, le Parlement et le Bastion des Pêcheurs, elle offre une riche expérience culturelle. La vie nocturne vibrante, les spas et le charme historique de Budapest en font une ville captivante.</string>
+    <string name="krakow_1">Cracovie, la ville historique de la Pologne, est connue pour son cœur médiéval bien préservé et sa culture vibrante. Célèbre pour des monuments comme le château de Wawel, la place du marché et Auschwitz-Birkenau à proximité, elle offre une riche expérience historique. La scène artistique animée, la cuisine traditionnelle et la profondeur historique de Cracovie en font une destination fascinante.</string>
+    <string name="helsinki_1">Helsinki, la capitale de la Finlande, est une ville de design moderne et de beauté maritime. Connue pour son architecture innovante, sa scène culturelle vibrante et son bel archipel, elle offre un mélange de sophistication urbaine et de charme naturel. Les saunas, les musées et les festivals animés de Helsinki soulignent son caractère nordique unique.</string>
+    <string name="dublin_1">Dublin, la capitale de l\'Irlande, est une ville de patrimoine littéraire et de culture vibrante. Connue pour ses monuments historiques comme Trinity College et le château de Dublin, elle offre une riche expérience culturelle. Les pubs animés, la musique traditionnelle et l\'atmosphère conviviale de Dublin en font une destination accueillante et charmante.</string>
+    <string name="dubrovnik_1">Dubrovnik, une ville côtière croate, est renommée pour ses murs médiévaux époustouflants et sa vieille ville pittoresque. Connue sous le nom de "Perle de l\'Adriatique", elle offre des vues à couper le souffle, une architecture historique et une vie culturelle vibrante. Les belles plages, les rues charmantes et l\'histoire riche de Dubrovnik en font une destination captivante.</string>
+    <string name="tel_aviv_1">Tel Aviv, la ville animée d\'Israël, est connue pour son architecture moderne, ses belles plages et sa vie nocturne vibrante. Avec une scène culturelle riche, y compris des musées et des galeries, elle offre un mélange de vie contemporaine et de profondeur historique. La cuisine diversifiée et l\'énergie dynamique de Tel Aviv captivent les visiteurs.</string>
+    <string name="havana_1">La Havane, la capitale de Cuba, est une ville de charme historique et de vie culturelle animée. Connue pour son architecture coloniale colorée, ses voitures classiques et sa musique salsa, elle offre une riche expérience culturelle. Les rues animées, les plages et l\'histoire révolutionnaire de La Havane en font une destination captivante et nostalgique.</string>
+    <string name="manila_1">Manille, la capitale des Philippines, est une ville de contrastes vibrants. Connue pour ses sites historiques comme Intramuros, ses centres commerciaux modernes et sa vie nocturne animée, elle offre une expérience urbaine dynamique. La cuisine philippine, les festivals et l\'énergie cosmopolite de Manille captivent les visiteurs. Une fusion de tradition et de modernité.</string>
+    <string name="nairobi_1">Nairobi, la capitale du Kenya, est une ville d\'aventure urbaine et de beauté naturelle. Connue pour son parc national où la faune sauvage rôde à proximité de la ville, elle offre une expérience unique. Les marchés animés, la culture kenyane et les opportunités de safari à Nairobi en font une destination captivante.</string>
+    <string name="interlaken_1">Interlaken, une ville suisse pittoresque, est connue pour ses paysages alpins époustouflants et ses aventures en plein air. Située entre les lacs de Thoune et de Brienz, elle offre une expérience naturelle exceptionnelle. Les activités de plein air, les vues sur les montagnes et l\'atmosphère paisible d\'Interlaken enchantent les visiteurs. Un paradis pour les amateurs de nature et d\'aventure.</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>

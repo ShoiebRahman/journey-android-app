@@ -1,0 +1,266 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ActivitySelectionActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/personalRecommendations"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="30dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/activityTypeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activityQues"
+        android:layout_below="@id/textView"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp" />
+
+    <!-- Grid Layout for Activities -->
+    <GridLayout
+        android:id="@+id/activityGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activityTypeText"
+        android:alignmentMode="alignMargins"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:padding="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="15dp">
+
+        <!-- Adventure Sports -->
+        <LinearLayout
+            android:id="@+id/adventure_sports"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_adventure_sports"
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/adventure"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/adventureSports"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp" />
+        </LinearLayout>
+
+        <!-- Cultural Experiences -->
+        <LinearLayout
+            android:id="@+id/cultural_experiences"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_cultural_experiences"
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/cultural"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/culturalExperiences"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp" />
+        </LinearLayout>
+
+        <!-- Relaxation & Wellness -->
+        <LinearLayout
+            android:id="@+id/relaxation_wellness"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_relaxation_wellness"
+                android:layout_marginTop="8dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+
+                android:src="@drawable/relaxation"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/relaxation"
+
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp"/>
+        </LinearLayout>
+
+        <!-- Food & Dining -->
+        <LinearLayout
+            android:id="@+id/food_dining"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_food_dining"
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/food"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/food"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp" />
+        </LinearLayout>
+
+        <!-- Shopping -->
+        <LinearLayout
+            android:id="@+id/shopping"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_shopping"
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/shopping"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/shopping"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp"/>
+        </LinearLayout>
+
+        <!-- Nature & Wildlife -->
+        <LinearLayout
+            android:id="@+id/nature_wildlife"
+            android:background="@drawable/selection_tile_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_row="2"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:clickable="true"
+            android:focusable="true">
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/image_nature_wildlife"
+                android:layout_marginTop="10dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/nature"
+                app:shapeAppearanceOverlay="@style/RoundedSquare"
+                android:clickable="false"
+                android:focusable="false"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nature"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="5dp"/>
+        </LinearLayout>
+
+    </GridLayout>
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/continueButton"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal" />
+
+    <!-- Continue Button -->
+    <Button
+        android:id="@+id/continueButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/continueD"
+        android:layout_below="@id/activityGrid"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:enabled="false" />
+
+</RelativeLayout>

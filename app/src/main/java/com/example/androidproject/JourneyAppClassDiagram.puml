@@ -1,0 +1,24 @@
+@startuml
+'https://plantuml.com/class-diagram
+class MainActivity{
+}
+class LoginActivity{
+}
+class SignUpActivity{
+}
+class UserDatabaseHelper{
+}
+class home_page{
+}
+class FeaturedActivity{
+}
+class Destination{
+}
+class DestinationAdapter{
+}
+class DestinationSelectionActivity{
+}
+class ActivitySelectionActivity{
+}
+
+@enduml

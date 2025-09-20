@@ -1,0 +1,52 @@
+Country;City;One;Two;Three;Four;Image URL;Description;Lat;Long
+USA;New York;new_york_1;new_york_2;new_york_3;new_york_4;https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;new_york_1;40.7128;-74.006
+France;Paris;paris_1;paris_2;paris_3;paris_4;https://images.pexels.com/photos/2082103/pexels-photo-2082103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;paris_1;48.8566;2.3522
+Japan;Tokyo;tokyo_1;tokyo_2;tokyo_3;tokyo_4;https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;tokyo_1;35.6895;139.6917
+Italy;Rome;rome_1;rome_2;rome_3;rome_4;https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;rome_1;41.9028;12.4964
+Spain;Barcelona;barcelona_1;barcelona_2;barcelona_3;barcelona_4;https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;barcelona_1;41.3851;2.1734
+Australia;Sydney;sydney_1;sydney_2;sydney_3;sydney_4;https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;sydney_1;-33.8688;151.2093
+Brazil;Rio de Janeiro;rio_de_janerio_1;rio_de_janerio_2;rio_de_janerio_3;rio_de_janerio_4;https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;rio_de_janerio_1;-22.9068;-43.1729
+Canada;Toronto;toronto_1;toronto_2;toronto_3;toronto_4;https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;toronto_1;43.65107;-79.347015
+China;Beijing;beijing_1;beijing_2;beijing_3;beijing_4;https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;beijing_1;39.9042;116.4074
+Germany;Berlin;berlin_1;berlin_2;berlin_3;berlin_4;https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;berlin_1;52.52;13.405
+India;Delhi;delhi_1;delhi_2;delhi_3;delhi_4;https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;delhi_1;28.7041;77.1025
+Mexico;Cancun;cancun_1;cancun_2;cancun_3;cancun_4;https://images.pexels.com/photos/20210508/pexels-photo-20210508/free-photo-of-hotels-and-resorts-on-sea-coast-in-cancun.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;cancun_1;21.1619;-86.8515
+Russia;Moscow;moscow_1;moscow_2;moscow_3;moscow_4;https://images.pexels.com/photos/236294/pexels-photo-236294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;moscow_1;55.7558;37.6173
+Thailand;Bangkok;bangkok_1;bangkok_2;bangkok_3;bangkok_4;https://images.pexels.com/photos/1031659/pexels-photo-1031659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;bangkok_1;13.7563;100.5018
+United Kingdom;London;london_1;london_2;london_3;london_4;https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;london_1;51.5074;-0.1278
+Turkey;Istanbul;istanbul_1;istanbul_2;istanbul_3;istanbul_4;https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;istanbul_1;41.0082;28.9784
+Egypt;Cairo;cairo_1;cairo_2;cairo_3;cairo_4;https://images.pexels.com/photos/3290075/pexels-photo-3290075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;cairo_1;30.0444;31.2357
+Netherlands;Amsterdam;amsterdam_1;amsterdam_2;amsterdam_3;amsterdam_4;https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;amsterdam_1;52.3676;4.9041
+Greece;Athens;athens_1;athens_2;athens_3;athens_4;https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;athens_1;37.9838;23.7275
+South Africa;Cape Town;cape_town_1;cape_town_2;cape_town_3;cape_town_4;https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;cape_town_1;-33.9249;18.4241
+Argentina;Buenos Aires;buenos_aires_1;buenos_aires_2;buenos_aires_3;buenos_aires_4;https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;buenos_aires_1;-34.6037;-58.3816
+Switzerland;Zurich;zurich_1;zurich_2;zurich_3;zurich_4;https://images.pexels.com/photos/417378/pexels-photo-417378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;zurich_1;47.3769;8.5417
+Indonesia;Bali;bali_1;bali_2;bali_3;bali_4;https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;bali_1;-8.4095;115.1889
+Malaysia;Kuala Lumpur;kuala_lumpur_1;kuala_lumpur_2;kuala_lumpur_3;kuala_lumpur_4;https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;kuala_lumpur_1;3.139;101.6869
+Vietnam;Hanoi;hanoi_1;hanoi_2;hanoi_3;hanoi_4;https://images.pexels.com/photos/1483778/pexels-photo-1483778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;hanoi_1;21.0285;105.8342
+South Korea;Seoul;seoul_1;seoul_2;seoul_3;seoul_4;https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;seoul_1;37.5665;126.978
+Singapore;Singapore;singapore_1;singapore_2;singapore_3;singapore_4;https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;singapore_1;1.3521;103.8198
+Portugal;Lisbon;lisbon_1;lisbon_2;lisbon_3;lisbon_4;https://images.pexels.com/photos/2867883/pexels-photo-2867883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;lisbon_1;38.7223;-9.1393
+Sweden;Stockholm;stockholm_1;stockholm_2;stockholm_3;stockholm_4;https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;stockholm_1;59.3293;18.0686
+Norway;Oslo;oslo_1;oslo_2;oslo_3;oslo_4;https://images.pexels.com/photos/19389145/pexels-photo-19389145/free-photo-of-view-of-the-havnelageret-building-in-oslo-norway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;oslo_1;59.9139;10.7522
+Denmark;Copenhagen;copenhagen_1;copenhagen_2;copenhagen_3;copenhagen_4;https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;copenhagen_1;55.6761;12.5683
+New Zealand;Auckland;auckland_1;auckland_2;auckland_3;auckland_4;https://images.pexels.com/photos/24827278/pexels-photo-24827278/free-photo-of-sky-tower-in-auckland-central-business-district.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;auckland_1;-36.8485;174.7633
+Peru;Lima;lima_1;lima_2;lima_3;lima_4;https://images.pexels.com/photos/259967/pexels-photo-259967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;lima_1;-12.0464;-77.0428
+Chile;Santiago;santiago_1;santiago_2;santiago_3;santiago_4;https://images.pexels.com/photos/3874262/pexels-photo-3874262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;santiago_1;-33.4489;-70.6483
+Colombia;Bogota;bogota_1;bogota_2;bogota_3;bogota_4;https://images.pexels.com/photos/8264590/pexels-photo-8264590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;bogota_1;4.711;-74.0721
+United Arab Emirates;Dubai;dubai_1;dubai_2;dubai_3;dubai_4;https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;dubai_1;25.2048;55.2708
+Morocco;Marrakech;marrakech_1;marrakech_2;marrakech_3;marrakech_4;https://images.pexels.com/photos/3889843/pexels-photo-3889843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;marrakech_1;31.6295;-7.9811
+Saudi Arabia;Riyadh;riyadh_1;riyadh_2;riyadh_3;riyadh_4;https://images.pexels.com/photos/1885719/pexels-photo-1885719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;riyadh_1;24.7136;46.6753
+Austria;Vienna;vienna_1;vienna_2;vienna_3;vienna_4;https://images.pexels.com/photos/2351425/pexels-photo-2351425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;vienna_1;48.2082;16.3738
+Belgium;Brussels;brussels_1;brussels_2;brussels_3;brussels_4;https://images.pexels.com/photos/2587789/pexels-photo-2587789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;brussels_1;50.8503;4.3517
+Czech Republic;Prague;prague_1;prague_2;prague_3;prague_4;https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;prague_1;50.0755;14.4378
+Hungary;Budapest;budapest_1;budapest_2;budapest_3;budapest_4;https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;budapest_1;47.4979;19.0402
+Poland;Krakow;krakow_1;krakow_2;krakow_3;krakow_4;https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;krakow_1;50.0647;19.945
+Finland;Helsinki;helsinki_1;helsinki_2;helsinki_3;helsinki_4;https://images.pexels.com/photos/16085560/pexels-photo-16085560/free-photo-of-christmas-lights-hanging-over-tram-on-street-in-helsinki-finland.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;helsinki_1;60.1695;24.9354
+Ireland;Dublin;dublin_1;dublin_2;dublin_3;dublin_4;https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;dublin_1;53.3498;-6.2603
+Croatia;Dubrovnik;dubrovnik_1;dubrovnik_2;dubrovnik_3;dubrovnik_4;https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;dubrovnik_1;42.6507;18.0944
+Israel;Tel Aviv;tel_aviv_1;tel_aviv_2;tel_aviv_3;tel_aviv_4;https://images.pexels.com/photos/24902866/pexels-photo-24902866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;tel_aviv_1;32.0853;34.7818
+Cuba;Havana;havana_1;havana_2;havana_3;havana_4;https://images.pexels.com/photos/1845870/pexels-photo-1845870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;havana_1;23.1136;-82.3666
+Philippines;Manila;manila_1;manila_2;manila_3;manila_4;https://images.pexels.com/photos/2604843/pexels-photo-2604843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;manila_1;14.5995;120.9842
+Kenya;Nairobi;nairobi_1;nairobi_2;nairobi_3;nairobi_4;https://images.pexels.com/photos/9833516/pexels-photo-9833516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;nairobi_1;-1.2921;36.8219
+Switzerland;Interlaken;interlaken_1;interlaken_2;interlaken_3;interlaken_4;https://images.pexels.com/photos/2026454/pexels-photo-2026454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2;interlaken_1;7.8667;7.8667
